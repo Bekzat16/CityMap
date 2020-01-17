@@ -1,0 +1,542 @@
+@media (max-width: 1600px){
+    .bg3{
+        top: 710px;
+    }
+    @keyframes bg3 {
+        to {
+            top: 710px;
+        }
+        from {
+            top: 700px;
+        }
+    }
+}
+
+@media (max-width: 1400px) {
+    .bg3{
+        top: 625px;
+    }
+    @keyframes bg3 {
+        to {
+            top: 625px;
+        }
+        from {
+            top: 615px;
+        }
+    }
+
+}
+
+@media (min-width: 1200px) {
+    .bl {
+        padding-top: 23rem;
+    }
+
+}
+@media (max-width: 1300px) {
+    .bg3{
+        top: 535px;
+    }
+    @keyframes bg3 {
+        to {
+            top: 535px;
+        }
+        from {
+            top: 515px;
+        }
+    }
+}
+
+@media (max-width: 1199.98px) {
+    .bg3 {
+        top: 440px;
+    }
+
+    @keyframes bg3 {
+        to {
+            top: 440px;
+        }
+        from {
+            top: 425px;
+        }
+
+    }
+    #city-map {
+        padding: 0 0 18rem 0;
+    }
+    .phone-img {
+        left: 4rem;
+    }
+    .ellipse-5 {
+        right: 34rem;
+        top: -2rem;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .menu {
+        display: none;
+    }
+
+    .mobile-btn {
+        display: flex;
+        z-index: 10;
+    }
+
+    .show-menu {
+        position: fixed;
+        right: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(122.28deg, #0470DC -2.02%, #13F1FC 129.72%);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        z-index: 9;
+    }
+
+    .bg3 {
+        top: 440px;
+    }
+
+    @keyframes bg3 {
+        to {
+            top: 440px;
+        }
+        from {
+            top: 450px;
+        }
+    }
+
+    #about-us {
+        text-align: center;
+        padding: 10rem 0;
+        background: linear-gradient(122.28deg, #0470DC -2.02%, #13F1FC 129.72%)
+    }
+
+    .bg1, .bg2, .bg3 {
+        display: none;
+    }
+
+    .box-title {
+        font-size: 2.8rem;
+    }
+
+    .box form {
+        width: 32.5rem;
+    }
+
+    #map {
+        margin-top: 10rem;
+    }
+
+    .block-title {
+        font-size: 4rem;
+    }
+
+    .block-subtitle {
+        font-size: 3rem;
+    }
+
+    #path {
+        margin-top: 10rem;
+    }
+
+    .path-bg {
+        display: none;
+    }
+
+    .bl-bush {
+        right: 4rem;
+        top: 2.6rem;
+    }
+
+    .bl-img {
+        left: 0;
+    }
+
+    .atm {
+        padding-top: 8rem;
+    }
+
+    .hospital {
+        margin-top: 10rem;
+    }
+
+    #city-map {
+        margin-top: 5rem;
+        padding: 0 0 5rem 0;
+    }
+
+    .bush-city-map {
+        top: 1rem;
+        left: 6rem;
+    }
+
+    .phone-img {
+        top: 5.5rem;
+        left: 0;
+        width: 48%;
+    }
+
+    .btn {
+        margin-bottom: 1.5rem;
+    }
+
+    .bush-city-map {
+        top: -5rem;
+        left: 8rem;
+    }
+    .ellipse-5{
+        top: -4rem;
+    }
+}
+
+@media (max-width: 767.99px) {
+    #about-us {
+        text-align: center;
+        padding: 8rem 0;
+        background: linear-gradient(122.28deg, #0470DC -2.02%, #13F1FC 129.72%)
+    }
+
+    .bg1, .bg2, .bg3 {
+        display: none;
+    }
+
+    .box {
+        margin-bottom: 10rem;
+    }
+
+    .box form {
+        width: 23.5rem;
+        font-size: 13px;
+    }
+
+    .search {
+        padding-left: 5.2rem;
+    }
+
+    .bg3 {
+        top: 340px;
+    }
+
+    @keyframes bg3 {
+        to {
+            top: 340px;
+        }
+        from {
+            top: 350px;
+        }
+    }
+    #map {
+        margin-top: 2rem;
+    }
+
+    .block-title {
+        font-size: 3.5rem;
+    }
+
+    .block-subtitle {
+        font-size: 2.5rem;
+    }
+
+    .block img {
+        width: 70%;
+    }
+
+    .bl {
+        padding-top: 2rem;
+    }
+
+    .bl-bush {
+        top: -5rem;
+    }
+
+    .bl-title {
+        font-size: 2.4rem;
+    }
+
+    .bl-img img {
+        width: 30%;
+    }
+
+    .block-subtitle {
+        font-size: 2rem;
+    }
+
+    .hospital {
+        margin-top: 5rem;
+    }
+
+    #city-map {
+        margin-top: 0;
+        padding: 0 0 7rem 0;
+    }
+    .white-img{
+        display: none;
+    }
+    .bush-city-map {
+        top: 1rem;
+        left: 6rem;
+    }
+
+    .phone-img {
+        width:48%;
+    }
+
+    .city-map-title {
+        font-size: 3.5rem;
+    }
+
+    .city-map-txt {
+        margin-bottom: 2rem;
+    }
+
+    .btn {
+        margin-bottom: 1.5rem;
+    }
+
+    #contact {
+        padding-bottom: 4rem;
+    }
+    .ellipse-5{
+        right: 6rem;
+        top: -5rem;
+    }
+}
+
+@media (max-width: 575.98px) {
+    #about-us {
+        padding: 10rem 0;
+        background: linear-gradient(122.28deg, #0470DC -2.02%, #13F1FC 129.72%)
+    }
+
+    .bg1, .bg2, .bg3 {
+        display: none;
+    }
+
+    .box-title {
+        font-size: 2rem;
+    }
+
+    .box {
+        margin-bottom: 0;
+    }
+
+    .box-img {
+        width: 50%;
+        padding-top: 15rem;
+    }
+
+    #map {
+        margin-top: 2rem;
+    }
+
+    .block-title {
+        font-size: 3rem;
+    }
+
+    .block-subtitle {
+        font-size: 2rem;
+    }
+
+    .atm-img {
+        width: 50%;
+        margin-left: 25%;
+    }
+
+    .hospital-img {
+        width: 50%;
+    }
+
+    .hospital-content {
+        margin-top: 5rem;
+    }
+
+    #city-map {
+        padding: 0 0 10rem 0;
+    }
+    .white-img{
+        display: none;
+    }
+    .bush-city-map {
+        left: 2rem;
+        top: -3rem;
+    }
+
+    .city-map-content {
+        margin-left: 50%;
+    }
+
+    .city-map-title {
+        font-size: 2rem;
+    }
+    #contact{
+        text-align: center;
+    }
+    #contact .bl-span{
+        left: 0;
+        right: 0;
+    }
+    .list, .items{
+        margin-top: 30px;
+    }
+    .bg-contact {
+        display: none
+    }
+    .ellipse-3{
+        right: 10rem;
+    }
+    .ellipse-4{
+        left: 6rem;
+        bottom: 30rem
+    }
+    .ellipse-5{
+        width: 30px;
+        height: 30px;
+        right: 40rem;
+        top: -2.2rem;
+    }
+    .ellipse-6{
+        top: 0;
+    }
+    .ellipse-7{
+        left: 6rem;
+        top: -5.5rem;
+    }
+    .ellipse-8{
+        right: 24rem;
+        top: -11rem;
+    }
+    .ellipse-9{
+        right: 23rem;
+        top: -5rem;
+    }
+    .ellipse-10{
+        right: 10rem;
+    }
+}
+
+@media (max-width: 375px) {
+    #about-us {
+        margin-bottom: 0;
+    }
+    .box form {
+        width: 100%;
+        font-size: 13px;
+    }
+    .bl-subtitle {
+        font-size: 2.4rem;
+    }
+    #city-map {
+        padding: 0 0 5rem 0;
+    }
+    .white-img{
+        display: none;
+    }
+    .btn{
+        padding: 5px 10px;
+        font-size: 10px;
+    }
+    .phone-img {
+        top: 14.5rem;
+        width: 60%;
+    }
+
+    .city-map-content {
+        padding-top: 2rem;
+    }
+#contact{
+    text-align: center;
+}
+    .social {
+        font-size: 15px;
+        padding: 8px;
+    }
+    #contact li{
+        line-height:normal;
+        font-size: 14px;
+    }
+    .ellipse-1{
+        left: 3rem;
+        top: 4rem;
+    }
+    .ellipse-4 {
+        left: 5rem;
+        bottom: 28rem;
+
+    }
+    .ellipse-5 {
+        width: 30px;
+        height: 30px;
+        right: 24rem;
+        top: 45px;
+    }
+
+    .ellipse-6 {
+        top: -20rem;
+    }
+
+    .ellipse-7 {
+        left: 25rem;
+        top: -4.5rem;
+    }
+
+    .ellipse-8 {
+        right: 33rem;
+        top: -6rem;
+    }
+
+    .ellipse-9 {
+        right: 23rem;
+        top: -7.5rem;
+    }
+
+    .ellipse-10 {
+        right: 6rem;
+        top: -10rem;
+    }
+}
+@media (max-width:320px) {
+    #about-us {
+        margin-bottom: 0;
+    }
+
+    .box form {
+        width: 100%;
+    }
+
+    #map {
+        margin-top: 3rem;
+    }
+
+    .ellipse-1 {
+        left: 1rem;
+    }
+
+    #city-map {
+        padding: 0 0 4rem 0;
+    }
+
+    .city-map-content {
+        padding-top: 0;
+    }
+
+    .city-map-title {
+        margin-bottom: 10px;
+    }
+
+    .city-map-txt {
+        font-size: 12px;
+    }
+
+    .bush-city-map {
+        display: none;
+    }
+
+    .phone-img {
+        top: 9.5rem;
+    }
+}
